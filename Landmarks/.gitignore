@@ -1,0 +1,139 @@
+# macOS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon?
+._*
+
+# Build artifacts and intermediate files
+build/
+Build/
+DerivedData/
+archives/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace/xcuserdata/
+
+# Xcode specific files
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Scheme management
+xcshareddata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+# Xcode automatically generates this directory with a macOS SDK.
+SourcePackages/
+*.xcodeproj/project.xcworkspace/xcuserdata
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI Previews
+*.preview-thumbnails
+*.preview-updates
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+# Mint
+Mint/
+
+# SPM Packages
+Packages/
+
+# Tuist
+Derived/
+Project.xcworkspace/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/xcresult.zip
+fastlane/*.lock
+
+# Code signing
+*.cer
+*.mobileprovision
+*.p12
+
+# Provisioning profiles
+*.mobileprovision
+*.provisionprofile
+
+# Certificates
+*.crt
+*.pem
+*.key
+
+# App artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Symbolication files
+*.bcsymbolmap
+
+# Crashlytics
+firebase_crashlytics_symbol_generator.sh
+
+# Firebase
+GoogleService-Info.plist
+GoogleService-Info-*.plist
+
+# Realm database files
+*.realm
+*.realm.lock
+*.realm.management
+
+# Xcode environment settings
+xcdebugger/
+
+# Other
+*.orig
+*.log
+*.tmp
+*.temp
+*.swp
+*.xcactivitylog
+*.xcresult
+*.crash
+*.profdata
+*.gcno
+
+# Localization
+*.strings
+
+# Lock files
+Cartfile.resolved
