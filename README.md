@@ -4,11 +4,28 @@
 
 An interactive `SwiftUI` experience allowing users to explore various landmarks on `iOS`, `MacOS` & `WatchOS` with `MapKit` and curate the discoverability of the app through `App Intents` powered by `Apple Intelligence`
 
-<img src="https://github.com/user-attachments/assets/b9809a62-c173-4b90-9b02-fd6e569e9c5f" alt="LandmarksiOS" width="400" height="600" />
-
-<img src="https://github.com/user-attachments/assets/9909fc28-a6cb-467b-a7fd-d0d3ce967b14" alt="LandmarksWatchOS" width="400" height="600" />
-
-
+<table>
+  <tr>
+    <td align="center">
+      iOS<br/>
+      <img src="https://github.com/user-attachments/assets/b9809a62-c173-4b90-9b02-fd6e569e9c5f" alt="LandmarksiOS" width="400" height="400" />
+    </td>
+    <td align="center">
+      watchOS<br/>
+      <img src="https://github.com/user-attachments/assets/9909fc28-a6cb-467b-a7fd-d0d3ce967b14" alt="LandmarksWatchOS" width="400" height="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      macOS<br/>
+      <img src="https://github.com/user-attachments/assets/b9809a62-c173-4b90-9b02-fd6e569e9c5f" alt="LandmarksMacOS" width="400" height="400" />
+    </td>
+    <td align="center">
+      iPadOS<br/>
+      <img src="https://github.com/user-attachments/assets/dffd899b-9a14-46df-b863-1fe030a5b202" alt="LandmarksiPadOS" width="400" height="400" />
+    </td>
+  </tr>
+</table>
 
 ## Technologies Used  💻
 
