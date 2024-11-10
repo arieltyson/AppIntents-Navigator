@@ -4,7 +4,10 @@
 
 An interactive `SwiftUI` experience allowing users to explore various landmarks on `iOS`, `MacOS` & `WatchOS` with `MapKit` and curate the discoverability of the app through `App Intents` powered by `Apple Intelligence`
 
-<img src="https://github.com/user-attachments/assets/1b2f986a-a465-46f6-ac18-a03e45b4025d" alt="VisionOSDictionary" width="400" height="600" />
+<img src="https://github.com/user-attachments/assets/b9809a62-c173-4b90-9b02-fd6e569e9c5f" alt="LandmarksiOS" width="400" height="600" />
+
+<img src="https://github.com/user-attachments/assets/9909fc28-a6cb-467b-a7fd-d0d3ce967b14" alt="LandmarksWatchOS" width="400" height="600" />
+
 
 
 ## Technologies Used  💻
@@ -19,6 +22,9 @@ This project is crafted using the harmonious blend of Swift and Swift UI.
 - [x] WidgetKit
 - [x] WatchOS
 - [x] MacOS
+- [x] User Notifactions
+- [x] UIKit
+- [x] WatchKit
 
 
 
